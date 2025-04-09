@@ -13,7 +13,7 @@ define('DB_CHARSET', 'utf8mb4');
 // Opcional: URL base de tu aplicación (ayuda para generar links)
 // Asegúrate que termine CON barra /
 // Ejemplo: define('BASE_URL', 'http://localhost/tu-repositorio-clinica/public/');
-define('BASE_URL', '/PARCIALDB/public/'); // Ruta relativa si XAMPP está configurado así
+define('BASE_URL', '/ParcialDB/public/'); // Ruta relativa si XAMPP está configurado así
 
 // Habilitar errores para desarrollo (¡desactivar en producción!)
 error_reporting(E_ALL);
